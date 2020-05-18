@@ -15,4 +15,4 @@ In the root of the repo, you'll find:
 - A [dataset](./project_data.csv) of key information provided in each project's application. 
     - This file tabulates raw content from the project applications. Values are taken directly from project proposals. Minimal cleaning was performed for basic numerical consistency (e.g. replacing ranges with averages or minimums), but otherwise not harmonized or analyzed. For nearly all metrics, further analysis and modification would likely be required for consistent comparison.
     
-We can be reached at climate+github@stripe.com
+We can be reached at climate+github@stripe.com.
