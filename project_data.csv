@@ -1,0 +1,27 @@
+Name,Project Description,Total project volume (tCO2),Volume available for Stripe (tCO2),Volume today (tCO2),Volume in ~5 years (tCO2),Volume in ~20 years (tCO2),Net negativity ratio,Permanence (years),Cost today ($/tCO2),Cost in ~5 years ($/tCO2),Cost in ~20 ($/tCO2)
+Climeworks,Climeworks captures CO2 with direct air capture technology and permanently removes it from the atmosphere.,50,1,50,"1,100,000","100,000,000",0.100,1000+,$767.50,$300.00,$100.00
+CarbonCure,"Unlocking 500 Megatonnes of scalable, cost-effective carbon reductions in concrete","60,000","2,500","60,000","5,000,000","500,000,000",0.003,1000+,$100.00,$100.00,$100.00
+Nori,Accelerating carbon removal and supporting soil health across US croplands.,"14,011","5,000","1,250,000","30,000,000","550,000,000",Not specified,10,$16.50,$38.50,$66.00
+IndigoAg,Soil carbon sequestration through regenerative farming practices at scale,"550,000",Not specified,"550,000","1,000,000,000","10,000,000,000",Not specified,100,$20.00,Not specified,Not specified
+Biorecro,Bio-Energy with Carbon Capture and Storage,"50,000","50,000","50,000","15,000,000","750,000,000",0.053,1000+,$99.00,$50.00,$75.00
+Carbo Culture,"Turning woody biomass waste into stable, high-purity biochar",62,42,65,"1,000,000","1,000,000,000",0.035,100,"$1,000.00",$125.00,$50.00
+Droneseed,Reforesting landscapes via heavy-lift drone swarms and science-based seed enablement,584,400,574,"2,421,411","359,746,308",0.022,51,$500.20,$123.89,$4.45
+Pachama,Reforestation Projects Verified and Monitored with Satellite and Machine Learning,"165,850",Not specified,"2,135,020","2,809,485","4,832,880",0.610,60,$8.00,$8.00,$8.00
+Ocean-based,"Leveraging biogeochemistry, our wave-powered upwelling/downwelling technology achieves long-term CO2​ ​ sequestration.",693,693,"1,387","9,100,000","75,800,000,000",0.005,1000+,$336.07,$75.01,$42.50
+Soil Value Exchange,Stripe negative emission purchase launches grassland ecology regeneration at scale,"33,000","33,000","33,000","11,750,000","120,000,000",0.500,1000+,$30.00,$25.00,$15.00
+GreenSand,CO2 removal with Olivine,"1,000",200,"1,000","500,000","10,000,000",0.080,1000+,$35.00,$20.00,$10.00
+SilviaTerra,Empowering every landowner to participate in forest carbon rental markets,"15,000,000","15,000,000","6,000,000","300,000,000","9,500,000,000",0.001,1,$15.00,$55.00,$55.00
+Breadtree Farms,Conversion of annual cropland to sheep/chestnut silvopasture,98,98,98,"4,900","49,000",0.018,30,$100.00,$75.00,$50.00
+Ecoera,Biochar production from PYREG P500 and PYREG P1500,"5,000","2,000","4,000","8,000","200,000",0.016,500,$100.00,$70.00,$40.00
+Finnish Log House Industry Association,Laminated log production from lumber feedstock with CO2 sequestration certified by Puro,"25,000","35,000","25,000","50,000",Not specified,Not specified,50,$20.00,$30.00,Not specified
+Ekovilla,Ekovilla’s net-negative products - emission neutralization with carbon removal,"21,847","19,031","19,031","35,000","50,000",0.065,50,$21.50,$25.00,$25.00
+Carbofex,Biochar and carbon negative energy,"2,500","2,000","2,500","15,000","1,000,000,000",0.050,100,$100.00,$80.00,$50.00
+Vandersanden,"Development, production and sales of Facing Bricks and Slips by Carbonation",10,10,10,"25,000","1,000,000",0.600,1000+,$20.00,$35.00,$50.00
+Future Forest,"Commercially scalable, high-quality, transparent reforestation offset model in a developed economy.","6,350","6,270","6,350","125,000","50,000,000",0.005,100,$20.00,$20.00,$20.00
+Carbon Sequestration Inc,Carbon sequestration via logging and wood burial,"64,215","64,215","50,000","350,000","2,500,000",0.096,100,$42.50,$40.00,$30.00
+Bluesource,This project protects the carbon stock in the forest.,"770,543","130,000","130,000","426,334","469,138",0.000,40,$8.00,$12.50,$35.00
+Rizome,The largest giant bamboo reforestation project on earth + engineered lumber,"19,700","19,700","19,700","1,100,000","100,000,000",0.020,50,$10.00,$10.00,$20.00
+Vesta,Accelerate olivine weathering with wave power for carbon dioxide removal.,200,200,500,"1,000,000","10,000,000,000",0.045,1000+,$50.00,$10.00,$5.00
+Charm Industrial,Geological sequestration of bio-oil,"10,000","10,000",10000,"1,000,000","7,000,000,000",0.280,1000+,$600.00,$175.00,$55.00
+Notes:,Taken straight from the application,Replaced all ranges with averages,Replaced all ranges with averages,Replaced all ranges with averages,Replaced all ranges with averages,Replaced all ranges with averages,Replaced all ranges with averages,Replaced ranges with lowest value and anything greater than 1000 with 1000+,Replaced all ranges with averages,Replaced all ranges with averages,Replaced all ranges with averages
+,,,,Not neccessarily the same as total project volume probably due to different interpretations of the question,,,Value for GreenSand was subtracted from 1 because they appeared to compute the ratio backwards.,"For Carbon Sequestration Inc and Bluesource, the year reported is the timeframe of likely permanence but project additionally assumes some risk of loss, this is ignored in the reported number",,,
