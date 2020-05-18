@@ -9,7 +9,7 @@ In the [`Project Applications`](./Project%20Applications) directory, you'll find
 In the root of the repo, you'll find:
 
 - Our [legacy critera](./legacy_criteria.pdf), formulated with the guidance of our [expert reveiwers](http://stripe.com/blog/first-negative-emissions-purchases#recognition-footer).
-- A [template project application](./project_application_template.pdf), completed versions are in the `Project Applications` directory.
+- A [template project application](./project_applicaton_template.pdf), completed versions are in the `Project Applications` directory.
 - A [template review feedback form](./feedback_form_template.pdf) that our reviewers used to provide feedback.
 - A [template contract](./contract_template.pdf) we used to make our purchases.
 - A [dataset](./project_data.csv) of key information provided in each project's application. 
