@@ -1,4 +1,4 @@
-# Stripe's Spring 2021 Carbon Removal Purchases - Source Materials
+# Stripe Climate Carbon Removal Purchases - Source Materials
 
 > Appendix to https://stripe.com/newsroom/news/spring-21-carbon-removal-purchases.
 
