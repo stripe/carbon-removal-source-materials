@@ -9,7 +9,7 @@ In the root of the repo, you'll find:
 - Our [project applications](./Project%20Applications/Spring2021) from our latest Spring 2021 cycle as well as archived material from 2020. We are grateful to the projects for participating in this process, and agreeing to have their applications made public.
 - Our new [template project application](./TEMPLATE%20Project%20Application/Spring2021), including modular supplements for Direct Air Capture, Surface Mineralization, Biomass, Oceans, Geologic Injection, and CO2 Utilization.
      - The template application for Spring 2021 was developed in collaboration with [CarbonPlan](https://carbonplan.org). They are hosting an unbranded version of the application content in markdown format [on GitHub](https://github.com/carbonplan/carbon-removal-application). Please consider using it! 
-- The [template review forms](./TEMPLATE%20Expert%20Review%20Forms/Spring2021) that our science and governance reviewers used to provide feedback.
+- The [template review forms](./TEMPLATE%20Expert%20Review%20Forms/Spring2021) that our science and governance reviewers used to provide feedback against our criteria.
 - Our [purchase agreements](./Purchase%20Agreements/Spring2021). These are the literal contracts, including funding terms for purchase and R&D, technical milestones, renewal criteria, and more.
  
 Please reach out to climate+github@stripe.com with any questions.
