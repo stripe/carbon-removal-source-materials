@@ -12,4 +12,4 @@ In the root of the repo, you'll find:
 - The [template review forms](./TEMPLATE%20Expert%20Review%20Forms/Spring2021) that our science and governance reviewers used to provide feedback against our criteria.
 - Our [purchase agreements](./Purchase%20Agreements/Spring2021). These are the literal contracts, including funding terms for purchase and R&D, technical milestones, renewal criteria, and more.
  
-Please reach out to climate+github@stripe.com with any questions.
+Please reach out to climate+github@stripe.com with any questions. 
