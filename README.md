@@ -2,7 +2,7 @@
 
 > Appendix to https://stripe.com/newsroom/news/spring-21-carbon-removal-purchases.
 
-These materials form the basis of our carbon removal purchases. We're releasing them to the public, under a CC-0 "Public Domain" license, to promote transparency and knowledge-sharing in the field. 
+These materials form the basis of our carbon removal purchases. We're releasing them to the public, under a [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) license, to promote transparency and knowledge-sharing in the field. 
 
 In the root of the repo, you'll find:
 
