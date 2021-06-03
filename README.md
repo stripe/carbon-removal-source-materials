@@ -1,6 +1,8 @@
 # Stripe Climate Carbon Removal Purchases - Source Materials
 
 > Appendix to https://stripe.com/newsroom/news/spring-21-carbon-removal-purchases.
+> 
+> We announced our Spring 2021 purchases via an online Demo Day event, where you can hear directly from each of the 6 projects as well as a discussion with some of our expert reviewers. A recording is [available here](https://www.youtube.com/watch?v=FIzS7gCydY8), and is freely shareable. 
 
 These materials form the basis of our carbon removal purchases. We're releasing them to the public, under a [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) license, to promote transparency and knowledge-sharing in the field. 
 
